@@ -16,5 +16,5 @@ buttons.forEach(button => {
 
 function showToast(message) {
   // Replace this with your toast implementation, like using a library or custom code
-  alert(preparing download);
+  alert(message);
 }
