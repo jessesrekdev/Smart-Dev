@@ -6,10 +6,10 @@ buttons.forEach(button => {
     button.classList.add("animate");
     setTimeout(() => {
       button.classList.remove("animate");
-      showToast("Downloading...");
+      showToast("Downloading Pleasewait 2 secondsas we prepair apk file 💝");
       setTimeout(() => {
-        window.location.href = "https://www.mediafire.com/file/4kjd2mm69bxmt33/Smart+Dev_2.0_Update.apk/file";
-      }, 2000);
+        window.location.href = "https://download1979.mediafire.com/p03d64uqqmlghaAJHPGELdjyPe1APWXwPJKy_IIOTj-HHlnmY1CDfK8fHyhwE-7nl0SbFQuTSEBjDkXuCBPiBSwr6_PVzO2JW1D4RBqEIJd19zC-4-4EIqbyWVfwUA4IFI7ugUJs8lxiiZLs7Gk4PEEhHrDocPQxPfv29Xkq9bhROuo/4kjd2mm69bxmt33/Smart+Dev_2.0_Update.apk/file";
+      }, 1000);
     }, 600);
   });
 });
