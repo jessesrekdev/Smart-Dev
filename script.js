@@ -8,7 +8,7 @@ buttons.forEach(button => {
       button.classList.remove("animate");
       showToast("Downloading Please wait 2 seconds as we prepare apk file for you 💝");
       setTimeout(() => {
-        window.location.href = "https://raw.githubusercontent.com/jessesrekdev/Smart-Dev/apk/Smart%20Dev_2.0.apk/file";
+        window.location.href = "https://raw.githubusercontent.com/jessesrekdev/Smart-Dev/apk/Smart%20Dev_2.0.apk";
       }, 1000);
     }, 600);
   });
