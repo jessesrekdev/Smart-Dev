@@ -9,7 +9,7 @@
 },
     {
         "dev": "Jesse Srek 💙",
-        "title": "Nice Button Click Effect Animation ✨️,
+        "title": "Nice Button Click Effect Animation ✨️",
         "description": "Button Click Effect Animation ✨️in CSS & HTML (HTML5)",
         "img": "https://raw.githubusercontent.com/jessesrekdev/Smart-Dev/main/Smart%20Codes/Assets/button-20animation-20bubble-485x360.jpg",
         "html": "<!DOCTYPE html>\n<!-- Coding by CodingLab || www.codinglabweb.com -->\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>Button Click Animation</title>\n  </head>\n  <body>\n    <button class=\"button\">Click Me</button>\n  </body>\n</html>",
